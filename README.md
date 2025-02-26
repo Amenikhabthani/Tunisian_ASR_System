@@ -69,14 +69,6 @@ for the preprocessing i used padding+VAD filter
 - **License:** [More Information Needed]
 - **Finetuned from model [optional]:** [whisper small]
 
-### Model Sources [optional]
-
-<!-- Provide the basic links for the model. -->
-
-- **Repository:** [More Information Needed]
-- **Paper [optional]:** [More Information Needed]
-- **Demo [optional]:** [More Information Needed]
-
 
 #### Training Hyperparameters
 
@@ -101,4 +93,12 @@ seed=42
 save_total_limit=5
 save_steps=500,                         
 eval_steps=500, 
+
+
+### Model repository 
+
+<!-- Provide the basic links for the model. -->
+
+- **link:** [[(https://huggingface.co/amenIKh/Tunisian_Checkpoint12)]
+
 
