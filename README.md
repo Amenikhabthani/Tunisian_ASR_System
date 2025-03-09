@@ -53,7 +53,7 @@ model-index:
 
 <!-- Provide a longer summary of what this model is. -->
 
-This model is a fine-tuned version of [openai/whisper-small](https://huggingface.co/openai/whisper-small) on the tunisian_custom dataset =more than 4h(/doumawl4+/doumaw02+Data3+dataset1+dataset2).
+This model is a fine-tuned version of [openai/whisper-small](https://huggingface.co/openai/whisper-small) on  tunisian custom dataset more than 4h.
 It achieves the following results on the evaluation set:
 - Train Loss: 0.0109
 - Evaluation Loss: 1.1608097553253174
@@ -67,7 +67,7 @@ for the preprocessing i used padding+VAD filter
 - **Model type:** [ASR system]
 - **Language(s) (NLP):** [More Information Needed]
 - **License:** [More Information Needed]
-- **Finetuned from model [optional]:** [whisper small]
+- **Finetuned from model :** [whisper small]
 
 
 #### Training Hyperparameters
